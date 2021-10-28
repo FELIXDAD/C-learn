@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #include <string>	//用C++风格的字符串必须加上这个头文件
-int main()
+int main14()
 {
 
 	// 创建bool数据类型 只会占用一个字节的空间
