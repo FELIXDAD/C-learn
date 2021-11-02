@@ -51,5 +51,14 @@
     <ClCompile Include="15 数据输入.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="16.算数运算符_加减乘除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="00.基础框架头文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17.算数运算符_取模运算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
