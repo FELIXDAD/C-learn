@@ -155,6 +155,7 @@
     <ClCompile Include="15 数据输入.cpp" />
     <ClCompile Include="16.算数运算符_加减乘除.cpp" />
     <ClCompile Include="17.算数运算符_取模运算.cpp" />
+    <ClCompile Include="18.算数运算符_前置递增后置递增.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

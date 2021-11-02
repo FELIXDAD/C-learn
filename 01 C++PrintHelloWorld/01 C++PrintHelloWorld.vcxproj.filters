@@ -60,5 +60,8 @@
     <ClCompile Include="17.算数运算符_取模运算.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="18.算数运算符_前置递增后置递增.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
