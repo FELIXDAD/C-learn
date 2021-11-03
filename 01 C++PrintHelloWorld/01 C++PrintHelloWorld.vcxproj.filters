@@ -63,5 +63,23 @@
     <ClCompile Include="18.算数运算符_前置递增后置递增.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="19.算数运算符_赋值运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20.算数运算符_比较运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21.算数运算符_逻辑运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22.程序流程结构_选择结构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28.程序流程结构_选择结构_三只小猪称体重.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29.程序流程结构_选择结构_三目运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
