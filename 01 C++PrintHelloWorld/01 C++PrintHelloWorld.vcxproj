@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -162,6 +162,13 @@
     <ClCompile Include="22.程序流程结构_选择结构.cpp" />
     <ClCompile Include="28.程序流程结构_选择结构_三只小猪称体重.cpp" />
     <ClCompile Include="29.程序流程结构_选择结构_三目运算符.cpp" />
+    <ClCompile Include="30.程序结构流程_选择结构_Switch语句.cpp" />
+    <ClCompile Include="31.程序结构流程_循环结构_while语句.cpp" />
+    <ClCompile Include="32.程序结构流程_循环结构_猜数字.cpp" />
+    <ClCompile Include="33.程序结构流程_循环结构_dowhile.cpp" />
+    <ClCompile Include="34.程序结构流程_循环结构_水仙花数.cpp" />
+    <ClCompile Include="35.程序结构流程_循环结构_for.cpp" />
+    <ClCompile Include="36.程序结构流程_循环结构_for数七.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

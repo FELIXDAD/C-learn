@@ -81,5 +81,23 @@
     <ClCompile Include="29.程序流程结构_选择结构_三目运算符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="30.程序结构流程_选择结构_Switch语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31.程序结构流程_循环结构_while语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32.程序结构流程_循环结构_猜数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34.程序结构流程_循环结构_水仙花数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33.程序结构流程_循环结构_dowhile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35.程序结构流程_循环结构_for.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
