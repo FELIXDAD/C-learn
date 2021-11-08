@@ -1,16 +1,16 @@
 #include <iostream>
 using namespace std;
 #include <string>
-int main35()
+int main40()
 {
-
 	for (int i = 0; i < 100; i++) {
-		if (i == 10)
-		{
-			break;//break; break可以跳出循环 也可以中断Switch
+		if (i % 2 == 0) {
+			continue;//如果是偶数直接跳过输出 
+			//continue会跳过本次循环剩余部分
 		}
 		cout << i << endl;
 	}
+
 
 	system("pause");
 
