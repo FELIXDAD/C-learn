@@ -175,6 +175,10 @@
     <ClCompile Include="40.程序结构流程_跳转语句_continue.cpp" />
     <ClCompile Include="41.程序结构流程_跳转语句_goto.cpp" />
     <ClCompile Include="42.数组_一维数组.cpp" />
+    <ClCompile Include="43.数组_一维数组_五只小猪称体重.cpp" />
+    <ClCompile Include="44.数组_一维数组_元素倒置.cpp" />
+    <ClCompile Include="45.数组_一维数组_冒泡排序.cpp" />
+    <ClCompile Include="46.数组_二维数组_定义.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

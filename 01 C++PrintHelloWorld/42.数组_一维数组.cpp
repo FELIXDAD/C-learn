@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #include <string>
-int main()
+int main42()
 {
 
 	// 1、数据类型 数组名【数组长度】
