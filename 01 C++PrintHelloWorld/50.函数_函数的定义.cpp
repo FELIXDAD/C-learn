@@ -11,7 +11,7 @@ int add(int num1, int num2) {
 	return sum;
 }
 
-int main()
+int main50()
 {
 	int a = 0;
 	int b = 0;

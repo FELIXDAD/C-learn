@@ -181,6 +181,15 @@
     <ClCompile Include="46.数组_二维数组_定义.cpp" />
     <ClCompile Include="47.数组_二维数组_案例.cpp" />
     <ClCompile Include="50.函数_函数的定义.cpp" />
+    <ClCompile Include="51.函数_值传递.cpp" />
+    <ClCompile Include="52.函数_常见函数类型.cpp" />
+    <ClCompile Include="54.函数_函数的声明.cpp" />
+    <ClCompile Include="55.函数_函数的分文件编写.cpp" />
+    <ClCompile Include="56.指针_指针的定义和使用.cpp" />
+    <ClCompile Include="swap.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
