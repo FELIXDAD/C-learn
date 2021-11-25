@@ -179,6 +179,8 @@
     <ClCompile Include="44.数组_一维数组_元素倒置.cpp" />
     <ClCompile Include="45.数组_一维数组_冒泡排序.cpp" />
     <ClCompile Include="46.数组_二维数组_定义.cpp" />
+    <ClCompile Include="47.数组_二维数组_案例.cpp" />
+    <ClCompile Include="50.函数_函数的定义.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

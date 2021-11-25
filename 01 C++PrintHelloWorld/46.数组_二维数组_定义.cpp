@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #include <string>
-int main()
+int main46()
 {
 	//二维数组 第一个为行 第二个为列
 
