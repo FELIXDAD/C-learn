@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #include <string>
-int main()
+int main56()
 {
 	//∂®“Â÷∏’Î
 	int a = 10;

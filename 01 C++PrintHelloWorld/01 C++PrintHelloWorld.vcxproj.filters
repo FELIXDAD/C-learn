@@ -156,6 +156,12 @@
     <ClCompile Include="swap.cpp">
       <Filter>源文件\资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="58.指针_空指针和野指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60.指针_const修饰指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
