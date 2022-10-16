@@ -162,9 +162,24 @@
     <ClCompile Include="60.指针_const修饰指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="61.用指针获取数组值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62.指针与函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63.函数数组和指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="len.cpp">
+      <Filter>源文件\资源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="len.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

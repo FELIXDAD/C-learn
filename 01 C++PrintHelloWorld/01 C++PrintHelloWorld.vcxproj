@@ -187,11 +187,16 @@
     <ClCompile Include="55.函数_函数的分文件编写.cpp" />
     <ClCompile Include="56.指针_指针的定义和使用.cpp" />
     <ClCompile Include="60.指针_const修饰指针.cpp" />
+    <ClCompile Include="61.用指针获取数组值.cpp" />
+    <ClCompile Include="62.指针与函数.cpp" />
+    <ClCompile Include="63.函数数组和指针.cpp" />
     <ClCompile Include="swap.cpp" />
     <ClCompile Include="58.指针_空指针和野指针.cpp" />
+    <ClCompile Include="len.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h" />
+    <ClInclude Include="len.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
