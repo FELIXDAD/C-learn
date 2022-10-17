@@ -3,6 +3,7 @@
 int len(int arr[]) {
 
 	int length = sizeof(arr) / sizeof(arr[0]);
-	cout << length << endl;
+	length = arr[-1];
+	//cout << length << endl;
 	return length;
 }
