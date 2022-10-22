@@ -198,6 +198,15 @@
     <ClCompile Include="71.结构体案例2英雄排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="85.内存模型-全局区.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="88.new操作符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="89.别名.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
