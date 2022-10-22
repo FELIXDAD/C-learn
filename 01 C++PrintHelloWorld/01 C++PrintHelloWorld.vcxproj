@@ -198,6 +198,11 @@
     <ClCompile Include="69.const结构体.cpp" />
     <ClCompile Include="70.结构体案例1老师带学生.cpp" />
     <ClCompile Include="71.结构体案例2英雄排序.cpp" />
+    <ClCompile Include="91.引用做函数参数.cpp" />
+    <ClCompile Include="92.引用做函数返回值.cpp" />
+    <ClCompile Include="94.常量引用.cpp" />
+    <ClCompile Include="95.函数的默认参数.cpp" />
+    <ClCompile Include="97.函数重载.cpp" />
     <ClCompile Include="swap.cpp" />
     <ClCompile Include="58.指针_空指针和野指针.cpp" />
     <ClCompile Include="len.cpp" />
