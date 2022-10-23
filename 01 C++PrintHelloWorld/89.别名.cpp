@@ -24,7 +24,7 @@ int main89()
 
 	system("pause");
 	return 0;
-	
+
 
 
 }

@@ -4,7 +4,7 @@ using namespace std;
 
 
 
-int* func1(){
+int* func1() {
 	int a = 10;
 	//return &a; //由于局部变量是在栈区 函数结束运行后就会清理 所以这里只能在第一次时候正确返回 一旦函数结束就会变成乱码的地址
 	return 0;
@@ -25,4 +25,4 @@ int main85()
 
 
 
-} 
+}

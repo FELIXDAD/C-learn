@@ -4,8 +4,8 @@ using namespace std;
 
 // new的基本语法
 int* func001() {
-	 //在堆区创建整形数据
-	//new返回的是该数据类型的指针
+	//在堆区创建整形数据
+   //new返回的是该数据类型的指针
 	int* p = new int(10); //new的是什么数据类型 就应该用什么样的数据类型去接收他
 	string* str = new string("文字类型用文字指针");
 
@@ -34,9 +34,9 @@ int main88()
 
 	test001();
 
-	
 
-	
+
+
 
 	system("pause");
 	return 0;

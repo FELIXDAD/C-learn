@@ -9,7 +9,3 @@ void swap(int num1, int num2) {
 	cout << "num2 = " << num2 << endl;
 
 }
-void test() {
-
-	cout << "test " << endl;
-}
