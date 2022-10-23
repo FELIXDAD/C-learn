@@ -33,7 +33,7 @@ void printhero(hero hArray[], int len) {
 	}
 }
 
-int main71()
+int main()
 {
 	hero sanguo[] = {
 		{"Αυ±Έ",23,1},
